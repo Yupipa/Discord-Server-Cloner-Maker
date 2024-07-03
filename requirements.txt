@@ -1,0 +1,4 @@
+pypresence
+discord
+colorama
+httpx
